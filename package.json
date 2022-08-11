@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "html-react-parser": "^3.0.1",
+    "react-bootstrap": "^2.5.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
