@@ -1,4 +1,6 @@
-# nba-arbitrage
+# nba-arbitrage-betting
+
+Application to find sports betting arbitrage
 
 React frontend, Python backend
 
